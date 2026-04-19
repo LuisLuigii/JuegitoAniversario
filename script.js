@@ -80,7 +80,7 @@ function updateGameInfo() {
 
     if (score >= 5 && score < 10) {
         flowerImage.classList.add('show');
-        loveMessage.innerHTML = "PARA TI PRECIOSA";
+        loveMessage.innerHTML = "FELIZ ANIVERSARIOO OSITA";
         loveMessage.classList.add('show');
     } else if (score >= 10) {
         flowerImage.classList.remove('show');
